@@ -1,0 +1,15 @@
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.deps.json
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.dll
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.pdb
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.dll
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfo.cs
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.CopyComplete
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
+C:\Users\Angel\source\repos\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll
