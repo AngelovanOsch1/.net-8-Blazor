@@ -1,4 +1,5 @@
 ﻿@page "/inventories"
+@using IMS.UseCases.Inventories.Interfaces
 @inject NavigationManager NavigationManager
 
 <h3>InventoryList</h3>
@@ -9,9 +10,10 @@
 <br />
 <button type="button" class="btn btn-primary" @onclick="AddInventory">Add Inventory</button>
 
-
 @code {
+
     private string? searchTerm;
+
     private void OnInventorySearch(string searchTerm)
     {
         this.searchTerm = searchTerm;

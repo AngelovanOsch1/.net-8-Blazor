@@ -1,4 +1,5 @@
 ﻿@using IMS.CoreBusiness
+@using IMS.UseCases.Products.Interfaces
 
 @inject IViewProductByNameUseCase ViewProductByNameUseCase
 <table class="table">
@@ -23,6 +24,6 @@
 
     protected override async Task OnParametersSetAsync()
     {
-        return base.OnParametersSetAsync();
+        listProducts = (await ViewProductByNameUseCase.ExecuteAsync(this.SearchTerm)).ToList();
     }
 }

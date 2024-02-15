@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IMS.UseCases
-build_property.ProjectDir = C:\Users\Angel\source\repos\IMS\IMS.UseCases\
+build_property.ProjectDir = C:\Users\Angel\Desktop\.net-8-Blazor\IMS\IMS.UseCases\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

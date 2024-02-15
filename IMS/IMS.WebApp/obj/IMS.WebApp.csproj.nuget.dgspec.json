@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
+    "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -39,6 +37,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,32 +63,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+    "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
         "projectName": "IMS.Plugins.InMemory",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -93,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -103,6 +104,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,32 +130,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -157,8 +161,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }
@@ -167,6 +171,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -188,32 +197,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
+    "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "projectName": "IMS.WebApp",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -221,11 +228,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -234,6 +241,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -258,7 +270,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

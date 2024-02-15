@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9KjYRkmpJJLsnpcO0UiqVvbHYFdNWZV/qgyVXk1kYF7FCYZnTlX3+OIbrj9T3BX57yo1roVZ2+cESLpKt7V5w==",
+  "dgSpecHash": "HK1ehGV+3ZpsONmYJhZNUUfW2c3TXvCNC7pEcDmivN3VLPUC48rHsxsM7gCykgXAMx/8OAE2gbll2Qjdk68zHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+  "projectFilePath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

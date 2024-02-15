@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MR1pAE0kZsSRE54Pv4FbnY+AHEi+wYNeJEJeKIfKnL8YeyoCPTO62NFfwh2u0VsgT7WiyJHCUi8nNKM/61Y+dw==",
+  "dgSpecHash": "qCVdUl7m+M0uejRLc60juSNEvfb0IfujkfK20RschJDhsMjYD7bo+nbOJtAhiwAplbdq5HNYGXlpbLNn8xfQQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+  "projectFilePath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

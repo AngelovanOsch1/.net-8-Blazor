@@ -1,9 +1,14 @@
-﻿@page "/products"
+﻿@inject NavigationManager NavigationManager
+@page "/products"
 
 <h3>ProductList</h3>
 <br />
 
 <SearchProductComponent OnSearchProduct="OnSearchProduct"></SearchProductComponent>
+<br />
+<ProductListComponent SearchTerm="@SearchTerm"></ProductListComponent>
+<br />
+<button type="button" class="btn btn-primary" @onclick="AddProduct">Add</button>
 
 @code {
     private string SearchTerm;
@@ -11,5 +16,10 @@
     private void OnSearchProduct(string searchTerm)
     {
         this.SearchTerm = searchTerm;
+    }
+
+    private void AddProduct()
+    {
+        NavigationManager.NavigateTo("/addproduct");
     }
 }

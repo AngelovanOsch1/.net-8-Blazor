@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BhDFpcztvtApOtBtQ+A90jTlQ30gMCFR0zop8880022X+4nIndwAYOl8p+R0dQdhUMAZ5O21HQRAoOBIvU5tg==",
+  "dgSpecHash": "yTronBoi8GuJZ9zQfoH+i5uW4JyHQZxHNqP79X1lkQVxUqd+mQKKyKOm/vUr5/ogW3rJqssPo6cLWpTbptwqGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Angel\\Desktop\\.net-8-Blazor\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

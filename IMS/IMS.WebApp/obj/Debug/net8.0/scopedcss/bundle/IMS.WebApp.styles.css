@@ -1,3 +1,38 @@
+/* _content/IMS.WebApp/Controls/Common/AutoCompleteComponent.razor.rz.scp.css */
+.search-result[b-03734fm4eq] {
+    overflow-y: auto;
+    max-height: 300px;
+    border: 1px solid silver;
+    padding-top: 5px;
+}
+
+div ul[b-03734fm4eq] {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+
+dic ul; li[b-03734fm4eq] {
+    cursor: pointer;
+}
+
+.selected[b-03734fm4eq] {
+    background-color: antiquewhite;
+}
+/* _content/IMS.WebApp/Controls/Inventories/SearchAndDisplayInventoriesComponent.razor.rz.scp.css */
+.search-result[b-4twsxdpwqe] {
+    overflow-y: auto;
+    max-height: 300px;
+    border: 1px solid silver;
+    padding-top: 5px;
+}
+
+div ul[b-4twsxdpwqe] {
+    list-style-type: none;
+}
+
+dic ul; li[b-4twsxdpwqe] {
+    cursor: pointer;
+}
 /* _content/IMS.WebApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-0hk3laf8xw] {
     position: relative;
